@@ -1,5 +1,5 @@
 # ASTEROIDS
-Asteroids, built in Unity utilized vector-based physics and AABB collision.
+Asteroids, built in Unity utilizing vector-based physics and AABB collision.
 
 ## Controls
 Navigate the main menu with the up/down arrow keys. Submit a selection with the enter/return key. Rotate the ship clockwise or counter-clockwise via the left/right arrow keys. Move forwards by pressing the up arrow key. Slow down by releasing the up arrow key. Fire your weapon forwards via the spacebar.
